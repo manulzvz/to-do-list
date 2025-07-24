@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manulzvz13/to-do-list.git"
+    "url": "git+https://github.com/manulzvz/to-do-list.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manulzvz13/to-do-list/issues"
+    "url": "https://github.com/manulzvz/to-do-list/issues"
   },
-  "homepage": "https://github.com/manulzvz13/to-do-list#readme",
+  "homepage": "https://manulzvz.github.io/to-do-list",
   "description": "",
   "devDependencies": {
     "css-loader": "^7.1.2",
